@@ -20,8 +20,8 @@ ___
 1️⃣ Enter a brightness percentage followed by the D key (e.g., 25D → 25% brightness).<br>
 2️⃣ Use preset options:<br>
 ___ 
- -Press A for 100% brightness.
- -Press C for 50% (default).
+ - Press A for 100% brightness.<br>
+ - Press C for 50% (default).
 ___ 
 3️⃣ Press # to reset the input and enter a new value.<br>
 4️⃣ The system updates the light intensity in real-time using PWM control.<br>
@@ -39,9 +39,9 @@ ___
 
 # 📌 Future Improvements
 --- 
- ✨ Adding LCD display feedback for user input.<br>
- ✨ Implementing EEPROM memory support to store brightness settings.<br>
- ✨ Expanding compatibility for different microcontroller platforms.<br>
+ Adding LCD display feedback for user input.<br>
+ Implementing EEPROM memory support to store brightness settings.<br>
+ Expanding compatibility for different microcontroller platforms.<br>
 --- 
 ## 📜 License
 📝 MIT License - Free to modify and use. Contributions are welcome! 🤝
