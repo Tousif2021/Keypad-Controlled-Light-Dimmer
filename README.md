@@ -39,9 +39,9 @@ ___
 
 # 📌 Future Improvements
 --- 
- Adding LCD display feedback for user input.<br>
- Implementing EEPROM memory support to store brightness settings.<br>
- Expanding compatibility for different microcontroller platforms.<br>
+ - Adding LCD display feedback for user input.<br>
+ - Implementing EEPROM memory support to store brightness settings.<br>
+ - Expanding compatibility for different microcontroller platforms.<br>
 --- 
 ## 📜 License
 📝 MIT License - Free to modify and use. Contributions are welcome! 🤝
